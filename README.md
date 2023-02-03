@@ -1,0 +1,12 @@
+1. Chương 1:
+- Section 1: Tìm hiểu về biến và ví dụ điển hình trong php
+- Section 2: Các hàm mặc định của PHP và cách sử dụng
+- Section 3: Sự khác nhau giữa các loại biến trong PHP
+- Section 4: Toán tử tính toán trong PHP
+- Section 5: Toán tử gán trong PHP
+- Section 6: Toán tử so sánh trong PHP
+- Section 7: Toán tử tăng giảm trong PHP
+- Section 8: Toán tử logic trong PHP
+- Section 9: Chia điều kiện bằng switch case
+- Section 10: Thực hiện tạo máy tính bằng PHP
+- Section 11: Bài toán hiển thị thứ trong tuần bằng PHP
