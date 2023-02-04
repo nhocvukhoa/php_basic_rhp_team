@@ -10,3 +10,10 @@
 - Section 9: Chia điều kiện bằng switch case
 - Section 10: Thực hiện tạo máy tính bằng PHP
 - Section 11: Bài toán hiển thị thứ trong tuần bằng PHP
+2. Chương 2:
+- Section 1: Vòng lặp while trong PHP
+- Section 2: Vòng lặp do while trong PHP
+- Section 3: Vòng lặp for trong PHP
+- Section 4: Vòng lặp foreach trong PHP
+- Section 5: Sử dụng function trong PHP
+- Section 6: Include file trong PHP
