@@ -17,3 +17,8 @@
 - Section 4: Vòng lặp foreach trong PHP
 - Section 5: Sử dụng function trong PHP
 - Section 6: Include file trong PHP
+3. Chương 3:
+- Section 1: Phạm vi hoạt động của biến
+- Section 2: Sử dụng biến super global
+- Section 3: Tìm hiểu về $GET và $POST, phân biệt sự khác nhau
+- Section 4: Tìm hiểu và phân biệt Cookie và Session trong PHP
