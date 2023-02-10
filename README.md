@@ -37,6 +37,7 @@
         protected: cho phép truy cập ở (trong class, class mà kế thừa)
         private: cho phép truy cập ở (trong class)
 - Phương thức: là hàm được khai báo trong class có kèm theo cơ chế
+
 4.2. Section 2: Kế thừa
 - Cho phép class con (class kế thừa) sử dụng lại toàn bộ các thuộc tính và phương thức của lớp cha. Những thuộc tính và phương thức đó phải mang cơ chế public hoặc protected
 - Để kế thừa ta dùng từ khóa "extends"
